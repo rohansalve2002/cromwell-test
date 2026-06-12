@@ -40,7 +40,7 @@ Update config.php with PostgreSQL credentials:
 Host: localhost  
 Database: cromwell_test  
 Username: postgres  
-Password: rohan123
+Password: your_password
 
 ### 5. Run Project
 Open:
