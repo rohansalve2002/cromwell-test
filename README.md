@@ -1,4 +1,4 @@
-#Lgin Register Application
+#Login Register Application
 
 ## Tech Stack
 - Core PHP
